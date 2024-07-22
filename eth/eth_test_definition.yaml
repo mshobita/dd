@@ -1,0 +1,10 @@
+# test-definition.yaml
+metadata:
+  name: shell-script-test
+  description: "A simple test that runs a shell script"
+  format: "Lava-Test Test Definition 1.0"
+  maintainer: your.email@example.com
+run:
+  steps:
+    - ./test-script.sh
+
