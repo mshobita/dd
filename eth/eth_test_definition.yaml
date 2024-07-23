@@ -6,5 +6,5 @@ metadata:
   maintainer: your.email@example.com
 run:
   steps:
-    - ./test-script.sh
+    - sh test-script.sh
 
