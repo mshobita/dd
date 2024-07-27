@@ -7,6 +7,6 @@ metadata:
 run:
   steps:
     - ls
-    - chmod +x eth_std_test.sh
-    - sh eth_std_test.sh
+    - chmod +x eth/eth_std_test.sh
+    - sh eth/eth_std_test.sh
 
