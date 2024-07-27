@@ -6,6 +6,7 @@ metadata:
   maintainer: your.email@example.com
 run:
   steps:
-    - chmod +x test-script.sh
-    - sh test-script.sh
+    - ls
+    - chmod +x eth/test-script.sh
+    - sh eth/test-script.sh
 
